@@ -1,0 +1,15 @@
+{
+  "name": "node-weather",
+  "version": "1.0.0",
+  "description": "Long Lang from Address = magic ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trevor Knott",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.79.0",
+    "yargs": "^6.6.0"
+  }
+}
