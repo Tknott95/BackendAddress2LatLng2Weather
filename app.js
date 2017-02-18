@@ -30,5 +30,3 @@ geocode.geocodeAddress(argv.address, (errorMessage, results) => {
     });
     }
 });
-
-// https://api.darksky.net/forecast/[key]/[latitude],[longitude]
